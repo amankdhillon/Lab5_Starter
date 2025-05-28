@@ -3,6 +3,8 @@ Make sure you make a PR to your own repo's main and not the class' repo!! Otherw
 
 Aman Dhillon
 
+[explore](https://amankdhillon.github.io/Lab5_Starter/explore.html)
+[expose](https://amankdhillon.github.io/Lab5_Starter/expose.html)
 
 ## Check Your Understanding
 
